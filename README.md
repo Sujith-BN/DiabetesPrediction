@@ -1,0 +1,2 @@
+# DiabetesPrediction
+Machine learning project 
